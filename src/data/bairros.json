@@ -9,108 +9,94 @@
       "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=2.7743968857272563&panoid=EnrCpCmaiqVhBJj-65Xi1A&yaw=239.86414826579684"
     ]
   },
-  { "nome": "Almerinda", "imagens": ["", ""] },
-  { "nome": "Apolo III", "imagens": ["", ""] },
-  { "nome": "Barro Vermelho I", "imagens": ["", ""] },
-  { "nome": "Boaçu", "imagens": ["", ""] },
-  { "nome": "Amendoeira", "imagens": ["", ""] },
-  { "nome": "Barracão", "imagens": ["", ""] },
-  { "nome": "Boa Vista", "imagens": ["", ""] },
-  { "nome": "Brasilândia I", "imagens": ["", ""] },
-  { "nome": "Anaia Grande", "imagens": ["", ""] },
-  { "nome": "Bom Retiro", "imagens": ["", ""] },
-  { "nome": "Camarão", "imagens": ["", ""] },
-  { "nome": "Centro", "imagens": ["", ""] },
-  { "nome": "Anaia Pequeno", "imagens": ["", ""] },
-  { "nome": "Gebara", "imagens": ["", ""] },
-  { "nome": "Covanca I", "imagens": ["", ""] },
-  { "nome": "Colubandê", "imagens": ["", ""] },
-  { "nome": "Arrastão", "imagens": ["", ""] },
-  { "nome": "Guarani", "imagens": ["", ""] },
-  { "nome": "Gradim", "imagens": ["", ""] },
-  { "nome": "Cruzeiro do Sul", "imagens": ["", ""] },
-  { "nome": "Arsenal", "imagens": ["", ""] },
-  { "nome": "Guaxindiba", "imagens": ["", ""] },
-  { "nome": "Mangueira", "imagens": ["", ""] },
-  { "nome": "Engenho Pequeno I", "imagens": ["", ""] },
-  { "nome": "Coelho", "imagens": ["", ""] },
+  {
+    "nome": "Alcântara",
+    "imagens": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=7.0597649913303115&panoid=m7M74cRY1AfYleuQIMnd2Q&yaw=291.982118057879",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=3.754827550626473&panoid=V5LJ50rSQ4zzpNDH9G4Vgw&yaw=306.5227373153897",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-10.534316049730649&panoid=jm9RlmeXRVsJrNAOAMrknQ&yaw=270.0067233376723",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-7.060994268448908&panoid=RVxtKbBQ1cN6CeB0RWlZtw&yaw=191.761654759348",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-3.1565519294618696&panoid=n96mL_5AV9eETHL5dI_uAg&yaw=211.75453915359162"
+    ]
+  },
+  {
+    "nome": "Paraíso",
+    "imagens": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-8.017151141940772&panoid=cNiXT92_by-TwZEP2RoKpQ&yaw=16.811752822921125",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=6.620053068602061&panoid=IQX6TyeYiwFYSnZlBwjxRQ&yaw=289.15858062831967",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=3.187598309590328&panoid=kTasS9ppGse762UspqbLOA&yaw=113.47131470561798",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-7.01095632292251&panoid=4qVi02kV99x0h276DFYcHg&yaw=10.892815443261398",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-2.7566222476163063&panoid=v0H20NteAFXkTn9UQws1WQ&yaw=24.504252289841883"
+    ]
+  },
+  {
+    "nome": "Mutuá",
+    "imagens": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=4.791586510856291&panoid=aizxJbyeb9vyETLKwBMegw&yaw=41.241920979801044",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-13.861094869894771&panoid=uauoZ1FlESMja04mPq555Q&yaw=109.02859168746943",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=3.940427654589314&panoid=5386aQHPNxpFdaSFB6YJTQ&yaw=260.13303213851464",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-12.103014143264858&panoid=4idXXofvS7NvuATCNm6-_w&yaw=225.59875235761845",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-14.986435838409761&panoid=J_yn6tf21-wDlQ5j4Tyarw&yaw=290.04999995198864"
+    ]
+  },
+  {
+    "nome": "Arsenal",
+    "imagens": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-6.095955615531935&panoid=ynrnKZkeW-5Y66y110SCTA&yaw=333.3572891510704",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-14.567713370424244&panoid=qAqiXTutDytSLtpbFMcGcQ&yaw=214.60927425298024",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-4.964945943034351&panoid=gPLV1q6VlNhVsQ0vZAGOZg&yaw=189.1098812057535",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-8.534189241136133&panoid=-uyrJBqNb9mt7HqX89N0RA&yaw=45.034815013806366",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-2.226833467041317&panoid=hJmcu67xerbpdZxgba20Gw&yaw=59.912762967864495"
+    ]
+  },
+  {
+    "nome": "Neves",
+    "imagens": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=6.662093586817946&panoid=TPV_4BVEtXFiqW-gGQ2cVw&yaw=160.13499133641935",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-5.175707119555284&panoid=42q8b5rz5UsPY57Raa5Xbw&yaw=253.6302995039403",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=3.3849000950584127&panoid=fgDpjg-30OBBLOn92OmKYA&yaw=65.63724357440104",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=1.0965170508328441&panoid=DwRKMHTrPIHDyWUqVI-KbQ&yaw=8.272162276995005",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-13.365433334258967&panoid=3o2gP5xuNSPYdzmHH0JhKw&yaw=229.09535458098955"
+    ]
+  },
+  {
+    "nome": "Centro",
+    "imagens": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=0.21929845866071673&panoid=8Tqxxiq7WMiBPBl38Fflng&yaw=345.29554270732126",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-8.395376868482671&panoid=vV4vwBkQhnrARtsA7NySDA&yaw=121.12340537653489",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=2.7435811030796913&panoid=pzmSyrGEylA63mvUVzKrXA&yaw=25.04881136929005",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-0.27685062623757517&panoid=HxgDKDk6nVwZSIP-47_AfA&yaw=12.136721877621198",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=5.123907515265756&panoid=8Lp54h_Fj_Prpbb7j8moEg&yaw=225.3332366448907"
+    ]
+  },
+  {
+    "nome": "Colubandê",
+    "imagens": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=2.2484435893725703&panoid=v76rKIEpt-5atFAGz9qWyw&yaw=40.477350923735465",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-0.4413493377350761&panoid=o_Ti-C5bgmj_wmmLNGnxIQ&yaw=315.91462114859985",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=2.8485415513696637&panoid=1Mn7Qhrlwx63kRkNkMkDAw&yaw=273.2554659108092",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-6.589305428086675&panoid=1VfEWOW0tX4Fp-r3pGT6zQ&yaw=105.03042548810237",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-10.453423921485935&panoid=rHIOj46KXKc6y1p4CSlaTA&yaw=222.74555789857982"
+    ]
+  },
   {
     "nome": "Jardim Catarina",
     "imagens": [
-      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=5.765321106874524&panoid=WcQbZDz3DP89dHahL3EcpA&yaw=116.83943311441087",
-      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=5.765321106874524&panoid=WcQbZDz3DP89dHahL3EcpA&yaw=116.83943311441087",
-      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=5.765321106874524&panoid=WcQbZDz3DP89dHahL3EcpA&yaw=116.83943311441087",
-      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=5.765321106874524&panoid=WcQbZDz3DP89dHahL3EcpA&yaw=116.83943311441087",
-      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=5.765321106874524&panoid=WcQbZDz3DP89dHahL3EcpA&yaw=116.83943311441087"
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=9.614271555392492&panoid=OlmOMo02uZupElQTgcllBg&yaw=274.8219431066471",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-0.02499478453840709&panoid=hb3SQ6n2tJerEup-TVvfdQ&yaw=91.51221498516529",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-16.803853126292367&panoid=seYzW-9qoebr5S4Usf1AJQ&yaw=224.18212576059952",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-10.999529812346992&panoid=DO_v5_Af2vRsTtVdMqL5eg&yaw=287.0104908147364",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=3.5857824174600523&panoid=i9csSZlzyVyvQzkcgUvx4w&yaw=11.67976109067068"
     ]
   },
-  { "nome": "Neves I", "imagens": ["", ""] },
-  { "nome": "Estrela do Norte", "imagens": ["", ""] },
-  { "nome": "Eliane", "imagens": ["", ""] },
-  { "nome": "Laranjal", "imagens": ["", ""] },
-  { "nome": "Parada 40", "imagens": ["", ""] },
-  { "nome": "Fazenda dos Mineiros", "imagens": ["", ""] },
-  { "nome": "Engenho do Roçado", "imagens": ["", ""] },
-  { "nome": "Marambaia", "imagens": ["", ""] },
-  { "nome": "Paraíso", "imagens": ["", ""] },
-  { "nome": "Galo Branco", "imagens": ["", ""] },
-  { "nome": "Iêda", "imagens": ["", ""] },
-  { "nome": "Miriambi", "imagens": ["", ""] },
-  { "nome": "Patronato", "imagens": ["", ""] },
-  { "nome": "Itaóca", "imagens": ["", ""] },
-  { "nome": "Ipiíba", "imagens": ["", ""] },
-  { "nome": "Monjolo", "imagens": ["", ""] },
-  { "nome": "Bairro Pita I", "imagens": ["", ""] },
-  { "nome": "Itaúna", "imagens": ["", ""] },
-  { "nome": "Jardim Amendoeira", "imagens": ["", ""] },
-  { "nome": "Porto da Madama", "imagens": ["", ""] },
-  { "nome": "Jardim Alcântara", "imagens": ["", ""] },
-  { "nome": "Jardim Nova República", "imagens": ["", ""] },
-  { "nome": "Porto Novo", "imagens": ["", ""] },
-  { "nome": "Lindo Parque I", "imagens": ["", ""] },
-  { "nome": "Jockey", "imagens": ["", ""] },
-  { "nome": "Porto da Pedra", "imagens": ["", ""] },
-  { "nome": "Luiz Caçador", "imagens": ["", ""] },
-  { "nome": "Lagoinha I", "imagens": ["", ""] },
-  { "nome": "Porto Velho", "imagens": ["", ""] },
-  { "nome": "Mutondo", "imagens": ["", ""] },
-  { "nome": "Largo da Ideia I", "imagens": ["", ""] },
-  { "nome": "Rosane", "imagens": ["", ""] },
-  { "nome": "Mutuá", "imagens": ["", ""] },
-  { "nome": "Maria Paula I", "imagens": ["", ""] },
-  { "nome": "Santa Catarina I", "imagens": ["", ""] },
-  { "nome": "Mutuaguaçú", "imagens": ["", ""] },
-  { "nome": "Pacheco I", "imagens": ["", ""] },
-  { "nome": "Santa Luzia", "imagens": ["", ""] },
-  { "nome": "Mutuapira", "imagens": ["", ""] },
-  { "nome": "Raul Veiga I", "imagens": ["", ""] },
-  { "nome": "Vila Três", "imagens": ["", ""] },
-  { "nome": "Nova Cidade", "imagens": ["", ""] },
-  { "nome": "Rio do Ouro", "imagens": ["", ""] },
-  { "nome": "Vista Alegre", "imagens": ["", ""] },
-  { "nome": "Palmeiras", "imagens": ["", ""] },
-  { "nome": "Sacramento I", "imagens": ["", ""] },
-  { "nome": "Vila Lage", "imagens": ["", ""] },
-  { "nome": "Pedro de Alcântara", "imagens": ["", ""] },
-  { "nome": "Santa Izabel", "imagens": ["", ""] },
-  { "nome": "Venda da Cruz", "imagens": ["", ""] },
-  { "nome": "Porto do Rosa", "imagens": ["", ""] },
-  { "nome": "Tiradentes", "imagens": ["", ""] },
-  { "nome": "Zé Garoto I", "imagens": ["", ""] },
-  { "nome": "Recanto das Acácias", "imagens": ["", ""] },
-  { "nome": "Tribobó I", "imagens": ["", ""] },
   {
     "nome": "Rocha",
     "imagens": [
       "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=0.65&panoid=QrUrjfDdTIOC0gHxyyDrgQ&yaw=66.68",
-      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=14.04&panoid=qNxTo_XLtc6jCuQjDljDqQ&yaw=151.91"
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=14.04&panoid=qNxTo_XLtc6jCuQjDljDqQ&yaw=151.91",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=0.8585490725806579&panoid=aMyXXvBBDEitu9EnbdUcEQ&yaw=310.5388419158",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-0.7177770426998507&panoid=tvhzTueCj5ojLpEHiU4K3A&yaw=179.75773388683936",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?cb_client=maps_sv.tactile&w=900&h=600&pitch=-8.278786273283572&panoid=0ogm-8l_nfNyLl7vLrOelg&yaw=253.10210017001293"
     ]
-  },
-  { "nome": "Várzea das Moças", "imagens": ["", ""] },
-  { "nome": "Salgueiro", "imagens": ["", ""] },
-  { "nome": "Vila Condoza", "imagens": ["", ""] },
-  { "nome": "São Miguel", "imagens": ["", ""] },
-  { "nome": "Trindade", "imagens": ["", ""] },
-  { "nome": "Vila Yara", "imagens": ["", ""] },
-  { "nome": "Zumbi", "imagens": ["", ""] }
+  }
 ]
