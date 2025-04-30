@@ -4,25 +4,22 @@ const path = require("path");
 const dataPath = path.join(__dirname, "..", "data", "bairros.json");
 const bairros = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
 
-const usuarios = {}; // chave = IP, valor = bairro atual, número de tentativas e bairros acertados
+const usuarios = {};
 
 function gerarBairroAleatorio(usuarioIp) {
-  // Garante que o objeto do usuário está criado
   if (!usuarios[usuarioIp]) {
     usuarios[usuarioIp] = {
-      bairrosAcertados: [], // Inicializa a lista de bairros acertados
+      bairrosAcertados: [],
     };
   }
 
-  // Filtra os bairros não acertados pelo usuário
   const bairrosNaoAcertados = bairros.filter(
     (bairro) => !usuarios[usuarioIp].bairrosAcertados.includes(bairro.nome)
   );
 
   if (bairrosNaoAcertados.length === 0) {
-    // Se o usuário já acertou todos os bairros, reinicia a lista de bairros acertados
     usuarios[usuarioIp].bairrosAcertados = [];
-    return gerarBairroAleatorio(usuarioIp); // Chama recursivamente para reiniciar
+    return gerarBairroAleatorio(usuarioIp);
   }
 
   const indice = Math.floor(Math.random() * bairrosNaoAcertados.length);
@@ -32,13 +29,12 @@ function gerarBairroAleatorio(usuarioIp) {
 exports.getBairroLivre = (req, res) => {
   const ip = req.ip;
 
-  // Se o usuário não existir ou o bairro já foi perdido, cria um novo usuário
   if (!usuarios[ip] || usuarios[ip].tentativasRestantes <= 0) {
     usuarios[ip] = {
       bairro: gerarBairroAleatorio(ip),
-      tentativasRestantes: 5, // Inicia com 5 tentativas
-      imagemIndex: 0, // Começa com a primeira imagem
-      bairrosAcertados: [], // Lista de bairros acertados
+      tentativasRestantes: 5,
+      imagemIndex: 0,
+      bairrosAcertados: [],
     };
   }
 
@@ -73,13 +69,11 @@ exports.verificarRespostaLivre = (req, res) => {
     resposta.trim().toLowerCase() === bairroAtual.nome.toLowerCase();
 
   if (correto) {
-    // Resposta correta: Zera tentativas, escolhe novo bairro e marca como acertado
     usuario.tentativasRestantes = 5;
-    usuario.bairrosAcertados.push(bairroAtual.nome); // Marca o bairro como acertado
+    usuario.bairrosAcertados.push(bairroAtual.nome);
     usuario.bairro = gerarBairroAleatorio(ip);
-    usuario.imagemIndex = 0; // Zera o índice de imagens
+    usuario.imagemIndex = 0;
   } else {
-    // Resposta incorreta: Diminui tentativas
     usuario.tentativasRestantes -= 1;
   }
 

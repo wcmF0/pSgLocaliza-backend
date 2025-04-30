@@ -14,13 +14,12 @@ function escolherBairroDoDia() {
 
 escolherBairroDoDia();
 
-// Atualiza o bairro do dia a cada 24 horas
 setInterval(() => {
   const hoje = new Date().toDateString();
   if (hoje !== dataUltimaEscolha) {
     escolherBairroDoDia();
   }
-}, 24 * 60 * 60 * 1000); // 24 horas em milissegundos
+}, 24 * 60 * 60 * 1000);
 
 exports.getBairroPadrao = (req, res) => {
   if (!bairroDoDia) {
@@ -41,7 +40,6 @@ exports.verificarRespostaPadrao = (req, res) => {
   if (correto) {
     return res.json({ correto, mensagem: "🎉 Você acertou o bairro do dia!" });
   } else {
-    // Caso erro: troque a imagem
     const imagemIndex = bairroDoDia.imagens.indexOf(req.body.imagem);
     const proximaImagem =
       imagemIndex < bairroDoDia.imagens.length - 1
